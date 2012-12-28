@@ -1,8 +1,6 @@
-BestSoapTool
+How To Use
 ============
 
-
-How To Use Video
 http://youtu.be/NvnRAjKztGU
 
 
