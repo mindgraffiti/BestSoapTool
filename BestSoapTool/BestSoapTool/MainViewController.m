@@ -201,7 +201,7 @@
 }
 
 -(void)retrieveFromSYSoapTool:(NSMutableArray *)_data{
-    NSLog(@"%@",_data);
+    NSLog(@"data: %@",_data);
 }
 
 - (void)didReceiveMemoryWarning
